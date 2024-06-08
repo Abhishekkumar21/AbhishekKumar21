@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as Software Engineer.
-- 📝 I’m currently learning **Javascript**,**React**.
+- 📝 I’m currently playing with **Javascript**,**React**.
 - 👯 I’m looking to collaborate on **GitHub**.
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/i-am-abhishek-kumar/) and [Twitter](https://twitter.com/abhishekktweet).
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/i-am-abhishek-kumar/) and [Twitter](https://twitter.com/abhtwts).
 
